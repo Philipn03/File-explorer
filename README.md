@@ -19,9 +19,13 @@ Example: L c:\users\mark\a1
 -e Output only files that match a give file extension.
 
 Example: L c:\users\mark\a1 -r
+
          L c:\users\mark\a1 -f
+         
          L c:\users\mark\a1 -r -f
+         
          L c:\users\mark\a1 -s readme.txt
+         
          L c:\users\mark\a1\assets -e jpg
          
 ------------------------------------------------------------------------------------------------------------------------

@@ -38,6 +38,9 @@ D - Delete the file.
 R - Read the contents of a file.
 
 Example:
+
 C c:\users\mark\a1 -n mark
+
 D c:\users\mark\a1\mark.dsu
+
 R c:\users\mark\a1\mark.dsu

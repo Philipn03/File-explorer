@@ -5,13 +5,17 @@ User input for this program will take the following format:
 
 Program Features:
 L - List the contents of the user specified directory.
+
 Q - Quit the program.
 
 Example: L c:\users\mark\a1
 
 -r Output directory content recursively.
+
 -f Output only files, excluding directories in the results.
+
 -s Output only files that match a given file name.
+
 -e Output only files that match a give file extension.
 
 Example: L c:\users\mark\a1 -r
